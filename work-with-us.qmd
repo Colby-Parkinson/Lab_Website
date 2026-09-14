@@ -1,0 +1,88 @@
+---
+title: "Work With Us"
+pagetitle: "Work With Us — TRACE Lab"
+---
+
+::: {.section}
+
+# Work with us
+
+Most of what the TRACE Lab does begins with a phone call from someone who manages a place and needs an answer. If that's you, here's what we bring and how it usually works.
+
+## What we can do for an agency or community
+
+::: {.threads}
+
+::: {.thread}
+
+<h3>Count and characterize visitors</h3>
+<p>Design and run visitor use monitoring programs that fit your budget and your questions, from a single trail counter to a multi-season mixed-methods study. We can also evaluate a monitoring program you already have.</p>
+
+:::
+
+::: {.thread}
+
+<h3>Make sense of mobile location data</h3>
+<p>Products like Placer.ai and other location-based services data are increasingly pitched to parks and destination organizations. We know what they're good for, what they get wrong, and how to validate them before you write policy from them.</p>
+
+:::
+
+::: {.thread}
+
+<h3>Map how people move</h3>
+<p>GPS tracking, trajectory analysis, and spatial modeling that show where visitors actually go, when, and in what patterns, at the resolution of a trail junction or a whole region.</p>
+
+:::
+
+::: {.thread}
+
+<h3>Prepare for a bad day</h3>
+<p>Evacuation and emergency preparedness research for recreation settings: surveys of who is on the ground and what they would do, stakeholder mapping, agent-based traffic simulation, and facilitated tabletop exercises that bring agencies and communities to the same table.</p>
+
+:::
+
+::: {.thread}
+
+<h3>Engage the community, not just the visitor</h3>
+<p>Interviews, participatory mapping, and public presentations that treat residents and gateway communities as partners in the research, and return findings to them in plain language.</p>
+
+:::
+
+:::
+
+## How it usually works
+
+The lab works with federal agencies through cooperative agreements and Cooperative Ecosystem Studies Unit (CESU) task agreements, with state, tribal, and local governments and destination organizations through direct contracts or memoranda of understanding, and with community groups through partnerships that are often unfunded on their side. Graduate student projects are a good fit for questions that can be answered in one to two field seasons, and they're a good deal for the partner.
+
+We're candid about scope. Some questions need a $5,000 pilot and some need a multi-year agreement, and we'll tell you which one you're looking at before anyone writes a proposal.
+
+## Who we've worked with
+
+National Park Service (Wrangell–St. Elias, Grand Teton, Grand Canyon), the UW–NPS Research Station, the Native Village of Chitina, and the communities of McCarthy, Kennicott, Chitina, and Gakona, Alaska.
+
+:::
+
+::: {.band}
+
+::: {.band-inner}
+
+::: {}
+
+## Start a conversation
+
+The easiest first step is a short email describing the place and the question. We'll reply with an honest read on whether the lab is the right fit and what a project might look like.
+
+:::
+
+::: {.who}
+
+<b>Colby Parkinson, Ph.D.</b>
+[cparkin2@uwyo.edu](mailto:cparkin2@uwyo.edu)<br>
+Crane Hall, Room 220<br>
+University of Wyoming, Laramie
+
+:::
+
+:::
+
+:::

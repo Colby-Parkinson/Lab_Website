@@ -1,0 +1,3 @@
+/* Small overrides that don't need Sass */
+.quarto-title-block { display: none; }
+main.content { padding-top: 0; }

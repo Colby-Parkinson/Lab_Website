@@ -1,0 +1,28 @@
+---
+title: "Publications"
+pagetitle: "Publications — TRACE Lab"
+bibliography: publications.bib
+csl: apa.csl
+nocite: '@*'
+include-after-body:
+  text: |
+    <script>
+    document.querySelectorAll('#refs .csl-entry').forEach(e => {
+      e.innerHTML = e.innerHTML.replace(/Parkinson, C\./g, '<strong>Parkinson, C.</strong>');
+    });
+    </script>
+---
+
+::: {.section}
+
+# Publications
+
+Peer-reviewed articles from the lab and its members, most recent first. Lab members' names are in bold. Technical reports for agency partners are listed on the [Projects](projects.html) page. Full records are on [ORCID](https://orcid.org/0000-0001-8897-8844).
+
+## Peer-reviewed articles
+
+::: {#refs}
+
+:::
+
+:::

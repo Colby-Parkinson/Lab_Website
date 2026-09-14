@@ -1,0 +1,64 @@
+---
+title: "People"
+pagetitle: "People — TRACE Lab"
+---
+
+::: {.section}
+
+# People
+
+::: {.people-grid}
+
+::: {.person}
+
+<div class="photo-frame portrait"><img src="images/colby-parkinson.jpg" alt="Colby Parkinson"></div>
+<h3>Colby Parkinson, Ph.D.</h3>
+<div class="role">Principal Investigator · Assistant Professor of Outdoor Recreation and Tourism Management</div>
+Colby leads the TRACE Lab. He holds a dual-title Ph.D. in Recreation, Park, and Tourism Management and Social Data Analytics from Penn State, an M.S. in Forest Ecosystems and Society from Oregon State, and a B.A. in Public Relations and Strategic Communications from American University, which explains why the lab's reports are readable. His research has taken him to Grand Canyon, Grand Teton, and Wrangell–St. Elias, and he serves on the board of the Society of Outdoor Recreation Professionals and the Native Village of Chitina's Climate Change Adaptation Planning Committee.
+
+[Email](mailto:cparkin2@uwyo.edu) · [ORCID](https://orcid.org/0000-0001-8897-8844) · [GitHub](https://github.com/cbp5535)
+
+:::
+
+::: {.person .open}
+
+<div class="photo-frame portrait"><span>This could be you</span></div>
+<h3>You?</h3>
+<div class="role">Graduate Research Assistant · M.S. student, starting 2027</div>
+The lab opened in 2026 and, at the time of writing, the entire roster fits in the first column of this page. That's not a bug. Joining now means you help decide what the lab becomes, you get more of your advisor's attention than you'll know what to do with, and there's nobody senior to hand you the field season they don't want. [See the open call below.](#join-the-lab)
+
+:::
+
+:::
+
+## Join the lab
+
+::: {.split}
+
+::: {}
+
+The TRACE Lab is recruiting **M.S. students** to start in **Spring 2027 or Fall 2027**. Students interested in either term will be considered, with preference for those who can begin in the spring.
+
+Students join the **Environment, Natural Resources, and Society M.S. program** in the Haub School of Environment and Natural Resources at the University of Wyoming, and work in one or more of the lab's areas:
+
+- Partnering with federal land management agencies and community partners on the questions they need answered
+- Understanding what drives visitation and what it leaves behind, using visitor use monitoring, mobile location data, and field studies
+- Taking on pressing environmental problems: wildfire and other hazards, adaptation to a changing landscape, and emerging technologies for sensing and managing visitor use
+
+**Who does well here.** People who like being outside and being in front of a terminal in roughly equal measure. Some comfort with R or Python helps; curiosity about data matters more than existing skill. Experience working with land management agencies, communities, or in outdoor recreation is a plus but not required.
+
+**How to apply.** Send a short note describing what you'd want to work on and why, along with a CV, to [cparkin2@uwyo.edu](mailto:cparkin2@uwyo.edu). Strong candidates will be invited to a conversation before applying to the program formally.
+
+[Download the recruitment poster (PDF)](assets/TRACE_Lab_MS_Recruitment_Poster.pdf)
+
+:::
+
+::: {}
+
+<a href="assets/TRACE_Lab_MS_Recruitment_Poster.pdf"><img class="poster-thumb" src="images/poster-thumb.png" alt="TRACE Lab M.S. recruitment poster"></a>
+
+:::
+
+:::
+
+:::
