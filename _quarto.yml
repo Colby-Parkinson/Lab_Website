@@ -7,6 +7,9 @@ website:
   title: "TRACE Lab"
   description: "Tourism and Recreation Analytics for Communities and Ecosystems — University of Wyoming"
   site-url: https://thetracelab.org
+  image: images/hero-root-glacier.jpg
+  open-graph: true
+  twitter-card: true
   favicon: assets/favicon.svg
   navbar:
     logo: assets/logo.svg
@@ -28,7 +31,7 @@ website:
         href: people.qmd#join-the-lab
   page-footer:
     left: "TRACE Lab · Haub School of Environment and Natural Resources · University of Wyoming"
-    right: "[cparkin2@uwyo.edu](mailto:cparkin2@uwyo.edu) · [ORCID](https://orcid.org/0000-0001-8897-8844) · [GitHub](https://github.com/cbp5535)"
+    right: "[cparkin2@uwyo.edu](mailto:cparkin2@uwyo.edu) · [ORCID](https://orcid.org/0000-0001-8897-8844)"
   page-navigation: false
 
 format:
