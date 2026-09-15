@@ -46,8 +46,7 @@ The Tourism and Recreation Analytics for Communities and Ecosystems (TRACE) Lab 
 
 ::: {}
 
-<div class="photo-frame"><img src="images/grand-teton-cyclist-survey.jpg" alt="A field researcher intercepts cyclists on the Grand Teton multi-use pathway"></div>
-<p class="caption">Intercept survey on the Grand Teton multi-use pathway.</p>
+<div class="photo-frame contain"><img src="images/trace-infographic.jpg" alt="TRACE infographic: tourism, recreation, analytics, communities, and ecosystems along a trail"></div>
 
 :::
 
@@ -97,9 +96,9 @@ The Tourism and Recreation Analytics for Communities and Ecosystems (TRACE) Lab 
 ## Where we work
 
 <div class="tiles">
-<a class="tile" href="projects.html"><img src="images/root-glacier.jpg" alt="Root Glacier, Wrangell–St. Elias"><span><b>Wrangell–St. Elias</b>National Park and Preserve, Alaska</span></a>
-<a class="tile" href="projects.html"><img src="images/grand-teton-ebikes.jpg" alt="E-bikes below the Tetons"><span><b>Grand Teton</b>National Park, Wyoming</span></a>
-<a class="tile" href="projects.html"><img src="images/mccarthy-community-meeting.jpg" alt="Community meeting in McCarthy, Alaska"><span><b>Gateway communities</b>McCarthy, Kennicott, and Chitina, Alaska</span></a>
+<a class="tile" href="projects.html"><img src="images/wrangell-bush-plane.jpg" alt="Researchers beside a bush plane in Wrangell–St. Elias"><span><b>Wrangell–St. Elias</b>National Park and Preserve, Alaska</span></a>
+<a class="tile" href="projects.html"><img src="images/grand-teton-gps-fieldwork.jpg" alt="Downloading GPS tracks in the field below the Tetons"><span><b>Grand Teton</b>National Park, Wyoming</span></a>
+<a class="tile" href="projects.html"><img src="images/mccarthy-tabletop-exercise.jpg" alt="Participants in the McCarthy interagency evacuation tabletop exercise"><span><b>Gateway communities</b>McCarthy, Kennicott, and Chitina, Alaska</span></a>
 </div>
 
 :::
