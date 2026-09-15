@@ -54,7 +54,7 @@ E-bikes are changing who rides on park pathways and how far they go, but manager
 
 ::: {}
 
-<div class="photo-frame"><img src="images/grand-canyon-gps-tracks.jpg" alt="Map of visitor GPS tracks across Grand Canyon National Park South Rim"></div>
+<div class="photo-frame contain"><img src="images/grand-canyon-gps-tracks.jpg" alt="Map of visitor GPS tracks across Grand Canyon National Park South Rim"></div>
 <p class="caption">Visitor GPS tracks between the Main and Desert View entrances.</p>
 <div class="meta" style="margin-top:.8rem">Grand Canyon National Park, Arizona<br>National Park Service and Penn State, 2022–2025</div>
 
