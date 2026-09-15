@@ -10,9 +10,9 @@ pagetitle: "TRACE Lab — Tourism and Recreation Analytics for Communities and E
 
 ::: {.hero-inner}
 
-<p class="eyebrow">Tourism and Recreation Analytics for Communities and Ecosystems</p>
-<h1>We study how people move through public lands.</h1>
-<p class="lead">The TRACE Lab at the University of Wyoming's Haub School of Environment and Natural Resources does applied research with the agencies and communities that manage outdoor recreation and tourism across the Western US.</p>
+<p class="eyebrow">Tourism and Recreation Analytics for Communities and Ecosystems (TRACE)</p>
+<h1>We study how people move through nature.</h1>
+<p class="lead">The TRACE Lab at the University of Wyoming's Haub School of Environment and Natural Resources does applied research with the agencies and communities to understand recreation and tourism behavior, revealing which visitors go where and why, how visitors impact econsystems and economies, and broader relationships between visitor use and nature exposure with health, safety, emerging technology, and more.</p>
 <a class="btn btn-sand" href="work-with-us.html">Work with us</a>
 <a class="btn btn-ghost" href="people.html#join-the-lab">Join the lab</a>
 
@@ -28,11 +28,16 @@ pagetitle: "TRACE Lab — Tourism and Recreation Analytics for Communities and E
 
 ## Who we are
 
-The TRACE Lab is led by Colby Parkinson, Assistant Professor of Outdoor Recreation and Tourism Management at the University of Wyoming. The lab launched in 2026 and grew out of a decade of fieldwork in national parks, forests, and gateway communities: GPS tracking at Grand Canyon, e-bike studies at Grand Teton, and wildfire evacuation planning along the McCarthy Road in Wrangell–St. Elias.
-
-We build the evidence that managers need to make decisions about visitation, and we do it with the people who will use it. That means intercept surveys on trailheads, interviews at kitchen tables, mobile location data at the scale of whole regions, and simulations that let a community rehearse a bad day before it arrives.
-
-The lab is based in Laramie, Wyoming, a morning's drive from Rocky Mountain National Park and a long day from Grand Teton and Yellowstone.
+The Tourism and Recreation Analytics for Communities and Ecosystems (TRACE) Lab is led by Colby Parkinson, PhD, Assistant Professor of Outdoor Recreation and Tourism Management at the University of Wyoming. The lab launched in 2026 to build the evidence that managers and communities need to make decisions based on their visitation. This evidence is derived from tracing and tracking visitor numbers, behaviors, and backgrounds, the psychological pathways that lead to visitors' (and managemers') behaviors and outcomes, and the routes to successful management through stakeholders, communities, and understanding of ecological systems. And our lab has the tools, knowledge, and resources to build that evidence. We specialize in field research that involves active participation with stakeholders to ground-truth our science alongside quantitative, spatial, and computational anlyses that help us integrate field data witb big data. Some of the methods we employ include:
+ - Community-based participatory research and participatory mapping
+ - Social data analysis and statistics
+ - Trail counters and systematic observation
+ - GPS and mobile device tracking
+ - Intercept and online surveys
+ - Semi-structured interviews
+ - Facilitated exercises for training and discussion
+ - Modeling and simulations
+ - Machine learning, LLMS, and artificial intelligence (yes, we have an AI agent and his name is Kronk)
 
 :::
 
@@ -45,14 +50,14 @@ The lab is based in Laramie, Wyoming, a morning's drive from Rocky Mountain Nati
 
 :::
 
-## What we specialize in
+## Our Priorities and Approaches
 
 ::: {.threads}
 
 ::: {.thread}
 
 <h3>Working with the people who manage the land</h3>
-<p>We partner directly with federal land management agencies, state and tribal governments, and gateway communities on the questions they need answered. Our work is designed with partners, not delivered to them, and it ends in something a manager can act on.</p>
+<p>We partner directly with federal land management agencies, state and tribal governments, and gateway communities on the questions they need answered. Our work begins with partnership and ends in recommendations a manager or leader can act on.</p>
 
 :::
 
@@ -65,22 +70,22 @@ The lab is based in Laramie, Wyoming, a morning's drive from Rocky Mountain Nati
 
 ::: {.thread}
 
-<h3>Taking on hazards, adaptation, and emerging technology</h3>
-<p>Wildfire and other hazards, emergency evacuation, adaptation to a changing landscape, and the new sensing tools (edge-AI trail counters, location-based services data, agent-based simulation) that are changing what it's possible to know about visitor use.</p>
+<h3>Taking on hazards and adaptation</h3>
+<p>Wildfire and other hazards, emergency evacuation, search-and-rescue, and adaptation to changing ecosystems are matters of life-or-death that our team takes seriously as part of visitor use and tourism management to ensure destination and community safety and success.</p>
 
 :::
 
 ::: {.thread}
 
-<h3>Advanced computation and analysis</h3>
-<p>Spatial and trajectory analysis of GPS and mobile location data, validation of commercial location datasets against ground truth, agent-based modeling, and reproducible pipelines in Python and R. We treat big data skeptically and make it earn its place alongside what people tell us in person.</p>
+<h3>Computation, analysis, and emerging technology</h3>
+<p>Resource and amenity mapping, trajectory analysis of GPS and mobile location data, agent-based modeling, and broader emerging technologies like AI and machine learning are tools we aim to incorporate (and scrutinize) in our research to ensure visitor use and tourism monitoring are at the forefront of science.</p>
 
 :::
 
 ::: {.thread}
 
 <h3>Nature, health, and well-being</h3>
-<p>Outdoor recreation is a health behavior. Our work has examined how time outdoors, leisure engagement, and access to green space relate to mental health and well-being, from national studies during the COVID-19 pandemic to systematic reviews of nature exposure and health outcomes.</p>
+<p>Outdoor recreation is a health behavior and recreaton areas are public health infrastructure. Our work has examined how time outdoors, leisure engagement, and access to green space relate to mental health and well-being.</p>
 
 :::
 
@@ -96,7 +101,7 @@ The lab is based in Laramie, Wyoming, a morning's drive from Rocky Mountain Nati
 
 ## Now recruiting M.S. students for 2027
 
-Students join the Environment, Natural Resources, and Society M.S. program at the Haub School. We are considering start dates in Spring 2027 and Fall 2027, with preference for those who can begin in the spring. [See the open call.](people.html#join-the-lab)
+Students will join the Environment, Natural Resources, and Society M.S. program at the Haub School. We are considering start dates in Spring 2027 and Fall 2027. [See the open call.](people.html#join-the-lab)
 
 :::
 
