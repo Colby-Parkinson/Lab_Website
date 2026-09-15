@@ -54,8 +54,7 @@ E-bikes are changing who rides on park pathways and how far they go, but manager
 
 ::: {}
 
-<div class="photo-frame contain"><img src="images/grand-canyon-gps-tracks.jpg" alt="Map of visitor GPS tracks across Grand Canyon National Park South Rim"></div>
-<p class="caption">Visitor GPS tracks between the Main and Desert View entrances.</p>
+<div class="photo-frame pano"><img src="images/grand-canyon-south-rim.jpg" alt="Field staff surveying visitors at a South Rim overlook, Grand Canyon National Park"></div>
 <div class="meta" style="margin-top:.8rem">Grand Canyon National Park, Arizona<br>National Park Service and Penn State, 2022–2025</div>
 
 :::
@@ -65,6 +64,8 @@ E-bikes are changing who rides on park pathways and how far they go, but manager
 ## Validating mobile location data against GPS tracks at Grand Canyon
 
 Commercial location-based services (LBS) data promise a view of visitor movement at a scale that no survey can match, but nobody had checked whether that view was accurate. Working from a South Rim visitor use study that handed GPS loggers to visitors as they entered the park, we compared LBS trajectories to what people actually did. The result, published in *Sustainability*, is one of the first direct validations of LBS data for park visitor behavior and a set of cleaning procedures now used in follow-on work.
+
+<figure class="inline-fig"><img src="images/grand-canyon-gps-tracks.jpg" alt="Map of visitor GPS tracks across the South Rim"><figcaption>Visitor GPS tracks between the Main and Desert View entrances.</figcaption></figure>
 
 :::
 
