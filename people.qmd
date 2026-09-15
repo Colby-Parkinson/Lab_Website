@@ -13,10 +13,10 @@ pagetitle: "People — TRACE Lab"
 
 <div class="photo-frame portrait"><img src="images/colby-parkinson.jpg" alt="Colby Parkinson"></div>
 <h3>Colby Parkinson, Ph.D.</h3>
-<div class="role">Principal Investigator · Assistant Professor of Outdoor Recreation and Tourism Management</div>
-Colby leads the TRACE Lab. He holds a dual-title Ph.D. in Recreation, Park, and Tourism Management and Social Data Analytics from Penn State, an M.S. in Forest Ecosystems and Society from Oregon State, and a B.A. in Public Relations and Strategic Communications from American University, which explains why the lab's reports are readable. His research has taken him to Grand Canyon, Grand Teton, and Wrangell–St. Elias, and he serves on the board of the Society of Outdoor Recreation Professionals and the Native Village of Chitina's Climate Change Adaptation Planning Committee.
+<div class="role">Assistant Professor of Outdoor Recreation and Tourism Management</div>
+Colby leads the TRACE Lab, with research that centers on (i) visitor use monitoring techniques and methodology, (ii) the relationship between nature and health, and (iii) emergency management and adaptation in gateway communities and destinations. He holds a dual-title Ph.D. in Recreation, Park, and Tourism Management and Social Data Analytics from Penn State, an M.S. in Forest Ecosystems and Society from Oregon State, and a B.A. in Public Relations and Strategic Communications from American University. Colby currently serves on the board of the Society of Outdoor Recreation Professionals.
 
-[Email](mailto:cparkin2@uwyo.edu) · [ORCID](https://orcid.org/0000-0001-8897-8844) · [GitHub](https://github.com/cbp5535)
+[Email](mailto:cparkin2@uwyo.edu) · [ORCID](https://orcid.org/0000-0001-8897-8844) · [Universty Webpage](https://www.uwyo.edu/haub/about-us/people/parkinson-colby.html) 
 
 :::
 
@@ -25,7 +25,7 @@ Colby leads the TRACE Lab. He holds a dual-title Ph.D. in Recreation, Park, and 
 <div class="photo-frame portrait"><span>This could be you</span></div>
 <h3>You?</h3>
 <div class="role">Graduate Research Assistant · M.S. student, starting 2027</div>
-The lab opened in 2026 and, at the time of writing, the entire roster fits in the first column of this page. That's not a bug. Joining now means you help decide what the lab becomes, you get more of your advisor's attention than you'll know what to do with, and there's nobody senior to hand you the field season they don't want. [See the open call below.](#join-the-lab)
+The lab opened in 2026 and, at the time of writing, the entire roster fits in the first column of this page. That's not a bug. Joining now means you help shape the lab and support early field seasons. [See the open call below.](#join-the-lab)
 
 :::
 
@@ -37,7 +37,7 @@ The lab opened in 2026 and, at the time of writing, the entire roster fits in th
 
 ::: {}
 
-The TRACE Lab is recruiting **M.S. students** to start in **Spring 2027 or Fall 2027**. Students interested in either term will be considered, with preference for those who can begin in the spring.
+The TRACE Lab is recruiting **M.S. students** to start in **Spring 2027 or Fall 2027**.
 
 Students join the **Environment, Natural Resources, and Society M.S. program** in the Haub School of Environment and Natural Resources at the University of Wyoming, and work in one or more of the lab's areas:
 
@@ -45,7 +45,7 @@ Students join the **Environment, Natural Resources, and Society M.S. program** i
 - Understanding what drives visitation and what it leaves behind, using visitor use monitoring, mobile location data, and field studies
 - Taking on pressing environmental problems: wildfire and other hazards, adaptation to a changing landscape, and emerging technologies for sensing and managing visitor use
 
-**Who does well here.** People who like being outside and being in front of a terminal in roughly equal measure. Some comfort with R or Python helps; curiosity about data matters more than existing skill. Experience working with land management agencies, communities, or in outdoor recreation is a plus but not required.
+**Who does well here.** People who like being outside and being in front of a terminal in roughly equal measure. Some comfort with or a desire to learn coding lanuages like Python helps; curiosity about data matters more than existing skill. Experience working with land management agencies, communities, or in outdoor recreation is a plus but not required.
 
 **How to apply.** Send a short note describing what you'd want to work on and why, along with a CV, to [cparkin2@uwyo.edu](mailto:cparkin2@uwyo.edu). Strong candidates will be invited to a conversation before applying to the program formally.
 
