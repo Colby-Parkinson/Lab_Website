@@ -7,8 +7,6 @@ pagetitle: "Projects — TRACE Lab"
 
 # Projects
 
-Recent and ongoing work, most of it in Alaska and the Northern Rockies. Most of it is done in partnership with a land management agency, and most of it ends in something a manager or a community can use.
-
 ::: {.project .featured}
 
 ::: {}
@@ -21,19 +19,13 @@ Recent and ongoing work, most of it in Alaska and the Northern Rockies. Most of 
 
 ::: {}
 
-## Emergency management and resilience planning in the McCarthy Road Corridor
+## Emergency management and resilience planning in Wrangell-St. Elias National Park and Preserve
 
-The McCarthy Road is a 60-mile gravel road that is the only way in or out for the communities of McCarthy and Kennicott and for the tens of thousands of visitors who reach them each summer. Wildfire, flooding, and washouts can close it with little warning. This project asks a simple question with a complicated answer: if the corridor had to be evacuated, what would actually happen?
+The McCarthy Road is a 60-mile gravel road that is the only way in or out for the communities of McCarthy and Kennicott and thousands of visitors who go to Wrangell-St. Elias National Park and Preserve to tour Kennecott Historic Mines National Landmark, hike on the Root Glacier, and fligtsee. Wildfire, flooding, and washouts could (and have) closed the road with little warning. This project asks a simple question with a complicated answer: if a natural hazard like a wildfire threatened corridor, what strategies and tactics would help save the most lives?
 
-We are answering it with mixed methods. Intercept surveys of residents and visitors along the road capture who is there, what they know, and what they would do. Stakeholder interviews with agency staff, business owners, and residents map out the decisions and communication channels that an evacuation would depend on. Participatory observation and an agent-based simulation of traffic on the road test how those decisions play out under different fire scenarios.
+We are answering it with mixed methods. Nearly 400 intercept surveys of residents and visitors to capture who is there, what they know, and what they would do. Stakeholder interviews with agency staff, business owners, and residents to map out the decisions and communication channels that an emergency response would depend on. Agent-based simulation of traffic on the roadway and in communities to test how those decisions play out under different fire scenarios. Final results are under review and (hopefully) will be published soon.
 
-In June 2026 the lab facilitated an interagency tabletop exercise in McCarthy with partners from the National Park Service, the State of Alaska, the Chitina Native Village, and the communities of McCarthy, Chitina, and Gakona, walking through a wildfire evacuation scenario together for the first time. Findings have been presented back to community members in Chitina, McCarthy, and Kennicott in 2025 and 2026, and a [risk assessment and emergency response technical report](https://osf.io/muecz) is available through the National Park Service and OSF. Colby also serves on the Native Village of Chitina's Climate Change Adaptation Planning Committee.
-
-<div class="facts">
-<div class="fact"><b>60</b><span>miles of single-access road</span></div>
-<div class="fact"><b>~400</b><span>residents and visitors surveyed</span></div>
-<div class="fact"><b>1</b><span>interagency evacuation exercise, June 2026</span></div>
-</div>
+Beyond traditional data collection and analysis, we have gotten involved with communities and stakeholders along the road. In June 2026, we facilitated an interagency tabletop exercise in McCarthy with partners from the National Park Service, the State of Alaska, the Chitina Native Village, and the communities of McCarthy, Chitina, and Gakona, walking through a wildfire evacuation scenario together for the first time. We have also presented and sought feedback on findings from community members in Chitina, McCarthy, and Kennicott in 2025 and 2026. We have also played a role in the Native Village of Chitina's Climate Change Adaptation Planning Committee.
 
 :::
 
@@ -52,7 +44,7 @@ In June 2026 the lab facilitated an interagency tabletop exercise in McCarthy wi
 
 ## E-bikes and cyclists on the Grand Teton multi-use pathway
 
-E-bikes are changing who rides on park pathways and how far they go, and managers have had little data to write policy from. This project combined onsite observation, rider surveys, and GPS tracking to compare e-bikers with conventional cyclists in behavior, sociodemographics, and recreation specialization. Results have been reported to the park and presented at the George Wright Society's ParkForum to inform e-bike policy on public lands.
+E-bikes are changing who rides on park pathways and how far they go, but managers' understanding of these trends has been limited. This project combined onsite observation, rider surveys, and GPS tracking to compare e-bikers with conventional cyclists based on their behaviors, sociodemographics, and degree of recreation specialization. Results have been reported to the park and presented at the George Wright Society's ParkForum to inform e-bike policy on public lands.  Final results are under review and (hopefully) will be published soon.
 
 :::
 
